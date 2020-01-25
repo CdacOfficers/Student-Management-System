@@ -1,0 +1,13 @@
+.reg{
+    
+    min-width: 100%;
+    background-image: url("src\assets\img\view_pic.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+  text-decoration: black; 
+  text-rendering: geometricPrecision;
+  text-align: center;
+
+}

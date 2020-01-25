@@ -1,0 +1,13 @@
+.view{
+    
+    min-width: 100%;
+    background-image: url("src\assets\img\Toy-and-Books.jpg");
+    background-repeat: no-repeat;
+    background-size: 115%;
+    background-position: center;
+
+  text-decoration: black; 
+  text-rendering: geometricPrecision;
+  text-align: center;
+
+}

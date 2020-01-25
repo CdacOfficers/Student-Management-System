@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.id{
+    position: fixed;
+    min-width: 100%;
+    background-image: url("src\assets\img\21003772.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+  z-index: 10;
+  
+    }
